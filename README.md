@@ -35,9 +35,9 @@
 ## 화면 구성 📱
 
 <p align="center">
-  <img src="" width="200" height="auto" alt="Image 1" style="display:inline-block; margin:5px;">
-  <img src="" width="200" height="auto" alt="Image 2" style="display:inline-block; margin:5px;">
-  <img src="" width="200" height="auto" alt="Image 1" style="display:inline-block; margin:5px;">
-  <img src="" width="200" height="auto" alt="Image 4" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/018485e2-31e7-4305-a1b8-c718e822b462" width="200" height="auto" alt="Image 1" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/8a9009d3-42a1-45c0-9584-21faa4ec1f49" width="200" height="auto" alt="Image 2" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/9362efe7-4b69-44ba-bb78-5bc6d41ad95e" width="200" height="auto" alt="Image 1" style="display:inline-block; margin:5px;">
+  <img src="https://github.com/user-attachments/assets/8c3dfbfa-dffa-49bb-a788-c4d33a38a917" width="200" height="auto" alt="Image 4" style="display:inline-block; margin:5px;">
 </p>
 
